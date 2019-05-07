@@ -4324,7 +4324,7 @@ body {
   color: #3e2684 !important;
 }
 .cid-rnKaGV4pE1 {
-  background-image: url("../../../assets/images/clouds-ocean-sea-6566-2000x1203.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1275.jpg");
 }
 .cid-rnKaGV4pE1 h1 {
   color: #616161;
@@ -4350,7 +4350,7 @@ body {
 .cid-roqm3owFKx {
   padding-top: 90px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/screen-shot-2019-05-06-at-2.43.49-pm-1772x1064.png");
+  background-color: #efefef;
 }
 .cid-roqm3owFKx h2 {
   text-align: center;
@@ -4588,7 +4588,10 @@ body {
   text-align: center;
 }
 .cid-roqbLw4cQO SPAN {
-  color: #232323;
+  color: #000;
+}
+.cid-roqbLw4cQO black {
+  color: #000;
 }
 .cid-roqpzVZ36x {
   padding-top: 30px;
