@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Presence_V.2.6",
-    "currentPage": "UT_Signup_step2_mobirise.html",
+    "currentPage": "UT_Signup_step2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8938,7 +8938,7 @@
         }
       ]
     },
-    "page10.html": {
+    "UT_Signup_step2.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Join Our Research: Step 2",
