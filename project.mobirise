@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Presence_V.2.6",
-    "currentPage": "page11.html",
+    "currentPage": "test.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9532,7 +9532,7 @@
         }
       ]
     },
-    "page11.html": {
+    "test.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "test",
