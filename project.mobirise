@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Presence_V.2.7",
-    "currentPage": "index.html",
+    "currentPage": "Research.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2048,12 +2048,12 @@
               "color": "#767676"
             },
             "H1": {
-              "color": "#454343",
+              "color": "#7154c5",
               "text-align": "center"
             },
             "H3": {
               "text-align": "center",
-              "color": "#767676"
+              "color": "#232323"
             },
             "SPAN": {
               "color": "#3b3b3b"
