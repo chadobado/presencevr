@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Presence_V.2.7",
-    "currentPage": "Research.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -889,7 +889,8 @@
               "text-align": "center"
             },
             "H3": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#767676"
             }
           },
           "_name": "header16",
