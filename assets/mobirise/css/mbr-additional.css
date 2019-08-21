@@ -6779,6 +6779,39 @@ body {
 .cid-ruxgIDIfg8 H3 {
   color: #232323;
 }
+.cid-rzOBhhYMd6 {
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
+.cid-rzOBhhYMd6 .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rzOBhhYMd6 .media-container-column {
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rzOBhhYMd6 .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-rzOBhhYMd6 H1 {
+  color: #7154c5;
+}
+.cid-rzOBhhYMd6 .mbr-text,
+.cid-rzOBhhYMd6 .mbr-section-btn {
+  color: #232323;
+}
+.cid-rzOBhhYMd6 H3 {
+  color: #232323;
+}
+.cid-rzOByIkLIH {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rzOByIkLIH .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
 .cid-ruxgIEgJfR {
   padding-top: 60px;
   padding-bottom: 60px;
