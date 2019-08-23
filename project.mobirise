@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Presence_V.2.9",
-    "currentPage": "index.html",
+    "currentPage": "UT_Signup_step2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1568,7 +1568,7 @@
     "about.html": {
       "settings": {
         "title": "About Us",
-        "meta_descr": "",
+        "meta_descr": "The Presence Team consists of leading experts in medicine and emerging product development, encouraging innovative discoveries for combatting mental health.",
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WSLD7WN');</script>\n<!-- End Google Tag Manager -->\n\n<!-- Begin Segment -->\n<script>\n  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error(\"Segment snippet included twice.\");else{analytics.invoked=!0;analytics.methods=[\"trackSubmit\",\"trackClick\",\"trackLink\",\"trackForm\",\"pageview\",\"identify\",\"reset\",\"group\",\"track\",\"ready\",\"alias\",\"debug\",\"page\",\"once\",\"off\",\"on\"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement(\"script\");n.type=\"text/javascript\";n.async=!0;n.src=\"https://cdn.segment.com/analytics.js/v1/\"+t+\"/analytics.min.js\";var a=document.getElementsByTagName(\"script\")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION=\"4.1.0\";\n  analytics.load(\"qEkUT5q4pPipe7NLCaJgiFhN7mPwBzzj\");\n  analytics.page();\n  }}();\n</script>\n<!-- End Segment -->\n<!-- Begin AutopilotHQ -->\n<script type=\"text/javascript\">(function(o){var b=\"https://quickkoala.io/anywhere/\",t=\"c5a6e59408764a0592884f35e0b403a1192c52f8d4b04397b31dbe684e619891\",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s=\"SCRIPT\",d=document,l=d.getElementsByTagName(s)[0],p=\"t=\"+c(d.title||\"\")+\"&u=\"+c(d.location.href||\"\")+\"&r=\"+c(d.referrer||\"\"),j=\"text/javascript\",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p=\"devmode=true&\"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent(\"onload\",y);}else{window.addEventListener(\"load\",y,false);}})({});</script>\n<!-- End Autopilot -->",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WSLD7WN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
         "html_before": "",
@@ -2503,7 +2503,7 @@
     "problem.html": {
       "settings": {
         "title": "Problem",
-        "meta_descr": "",
+        "meta_descr": "Mental illness impacts 1.2 billion people. 75% don't get help.",
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WSLD7WN');</script>\n<!-- End Google Tag Manager -->\n\n<!-- Begin Segment -->\n<script>\n  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error(\"Segment snippet included twice.\");else{analytics.invoked=!0;analytics.methods=[\"trackSubmit\",\"trackClick\",\"trackLink\",\"trackForm\",\"pageview\",\"identify\",\"reset\",\"group\",\"track\",\"ready\",\"alias\",\"debug\",\"page\",\"once\",\"off\",\"on\"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement(\"script\");n.type=\"text/javascript\";n.async=!0;n.src=\"https://cdn.segment.com/analytics.js/v1/\"+t+\"/analytics.min.js\";var a=document.getElementsByTagName(\"script\")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION=\"4.1.0\";\n  analytics.load(\"qEkUT5q4pPipe7NLCaJgiFhN7mPwBzzj\");\n  analytics.page();\n  }}();\n</script>\n<!-- End Segment -->\n<!-- Begin AutopilotHQ -->\n<script type=\"text/javascript\">(function(o){var b=\"https://quickkoala.io/anywhere/\",t=\"c5a6e59408764a0592884f35e0b403a1192c52f8d4b04397b31dbe684e619891\",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s=\"SCRIPT\",d=document,l=d.getElementsByTagName(s)[0],p=\"t=\"+c(d.title||\"\")+\"&u=\"+c(d.location.href||\"\")+\"&r=\"+c(d.referrer||\"\"),j=\"text/javascript\",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p=\"devmode=true&\"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent(\"onload\",y);}else{window.addEventListener(\"load\",y,false);}})({});</script>\n<!-- End Autopilot -->",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WSLD7WN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
         "html_before": "",
@@ -3671,7 +3671,7 @@
     },
     "research.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Your ideas matter. Shape the future of our product and help people live happier lives.",
         "title": "Research",
         "order": 5,
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WSLD7WN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n",
@@ -6615,7 +6615,7 @@
     },
     "UT_Signup_step1.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Fill out this form to apply to our next product test.",
         "title": "Join Our Research: Step 1",
         "order": 6,
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WSLD7WN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n",
@@ -8923,7 +8923,7 @@
     },
     "UT_Signup_step2.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Fill out this form to apply to our next product test.",
         "title": "Join Our Research: Step 2",
         "order": 7,
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WSLD7WN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n",
